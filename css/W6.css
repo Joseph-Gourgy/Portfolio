@@ -2,8 +2,8 @@ header {
   position: relative;
   width: 100%;
   text-align: center;
-  color: white;
-  background-image: url(../img/W6/Cover.jpg);
+  color: rgb(48, 42, 42);
+  background-image: url(../img/W6/Cover.png);
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
